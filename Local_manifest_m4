@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manife
+     <!-- Device Tree -->
+     <project path="device/xperia/kanuti" name="ProjectMarshmallow/device-sony-kanuti" remote="github" revision="cm-12.1"/>
+     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>   
+     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1"/>          
+          
+     <!-- kernel -->      
+     <project path="kernel/xperia/kanuti" name="ProjectMarshmallow/android_kernel_sony_kanuti_tulip" remote="github" revision="cm-12.1"/>
+          
+     <!-- vendor -->
+     <project path="vendor/xperia/kanuti" name="ProjectMarshmallow/aosp-vendor-sony" remote="github" revision="lollipop-mr1"/>
+
+</manifest>
