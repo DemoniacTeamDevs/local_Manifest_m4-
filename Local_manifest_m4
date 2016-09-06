@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <manife
+   <manifest>
      <!-- Device Tree -->
      <project path="device/xperia/kanuti" name="ProjectMarshmallow/device-sony-kanuti" remote="github" revision="cm-12.1"/>
      <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>   
